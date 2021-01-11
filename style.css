@@ -1,0 +1,30 @@
+*{
+  box-sizing: border-box;
+  background-color: antiquewhite;
+  
+
+}
+.wrapper{
+  padding-left: 250px;
+  max-width: 1200px;
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+}
+
+
+#gaols--list li{
+  font-size: 20px;
+  padding: 20px;
+  font-weight: bold;
+  cursor: pointer
+
+}
+
+ul{
+  color: red;
+}
+
+h1{
+  font-size: 60px;
+}
+
